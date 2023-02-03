@@ -1,0 +1,27 @@
+<html>
+
+
+	<body>
+		<div id="hello"></div>
+	</body>
+	<style>
+		#hello {
+			margin: 10px auto;
+			background-color: blue;
+			width: 10rem;
+			height: 10rem;
+			animation-name: big-chungus;
+			animation-duration: 5s;
+			animation-iteration-count: infinite;
+			animation-timing-function: ease-in-out;
+		}
+		
+		@keyframes big-chungus {
+			0%	{transform: rotateX(0deg) rotateY(30deg) scale(0.1);background-color: blue;}
+			45% {transform: scale(1);background-color: green;}
+			50%	{transform: rotateX(40deg) scale(2);margin: 500px auto;}
+			75% {transform: rotateX(50deg) rotateY(180deg) scale(1);background-color: red;}
+			100%	{transform: rotateX(360deg) rotateY(30deg) scale(0.1);margin: 10px auto;}
+		}
+	</style>
+</html>

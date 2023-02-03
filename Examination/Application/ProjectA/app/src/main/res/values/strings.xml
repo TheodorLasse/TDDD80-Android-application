@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Plantaholics</string>
+    <string name="username">"Username: "</string>
+    <string name="loginScreenTitle">Plantaholics</string>
+    <string name="LoginButton">Login</string>
+    <string name="register">Register</string>
+    <string name="already_registered_nlogin_here">Already Registered?\nLogin Here</string>
+    <string name="password">Password</string>
+    <string name="new_post_title">title</string>
+    <string name="new_post_description">Description</string>
+    <string name="new_post_button">Post</string>
+    <string name="add_to_the_discussion">Add to the discussion</string>
+    <string name="comment">Comment</string>
+    <string name="like">Like</string>
+    <string name="home">Home</string>
+    <string name="profile">Profile</string>
+    <string name="create_new_post">Create new post</string>
+    <string name="following">Following</string>
+    <string name="search">Search</string>
+    <string name="homeHelpText">Use the menu in the top right corner to search for friends to follow. They will then be visible here!</string>
+    <string name="follow">Follow</string>
+    <string name="posts">Posts</string>
+    <string name="comments">Comments</string>
+    <string name="liked_posts">Liked posts</string>
+    <string name="logout">Logout</string>
+</resources>

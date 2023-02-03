@@ -1,0 +1,2 @@
+web: gunicorn server:app --log-file -
+init: python -c "import server;backend.init_db()"

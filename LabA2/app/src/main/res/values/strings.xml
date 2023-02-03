@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">LabA2Fin</string>
+
+    <string-array name="pages">
+        <item>Home</item>
+        <item>Store</item>
+        <item>Info</item>
+        <item>Contact</item>
+    </string-array>
+
+</resources>
